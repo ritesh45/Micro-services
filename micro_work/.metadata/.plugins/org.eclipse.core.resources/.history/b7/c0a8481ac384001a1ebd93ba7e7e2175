@@ -1,0 +1,5 @@
+package com.ritesh.microservices.netflixzuulapigatewayserver;
+
+public class ZuulLoggingFilter {
+
+}
